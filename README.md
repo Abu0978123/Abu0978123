@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)]
+
 <h1 align="center">Hi 👋, I'm Abu Bakar</h1>
 <h3 align="center">A passionate Frontend and Backend developer from Pakistan</h3>
 <img align = "right" alt="Coding" with="200" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
