@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu0978123&label=Profile%20views&color=0e75b6&style=flat" alt="abu0978123" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Express, Redux and Tailwind CSS**
+- 🌱 I’m currently learning **Node.js, Express, vue.js and Angular**
 
-- 💬 Ask me about **reactjs, vue.js, node.js**
+- 💬 Ask me about **reactjs, next.js, node.js**
 
 - 📫 How to reach me **abubakar0978123@gmail.com**
 
