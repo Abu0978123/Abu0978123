@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abu Bakar</h1>
-<h3 align="center">A passionate (MERN) Frontend and Backend developer from Pakistan</h3>
+<h3 align="center">A passionate (MERN) developer, experienced Cloud AWS/Azure and System Admin from Pakistan</h3>
 <img align = "right" alt="Coding" with="200" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu0978123&label=Profile%20views&color=0e75b6&style=flat" alt="abu0978123" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abubakar0978123@gmail.com**
 
-- 📄 Know about my experiences [https://abu-bakar.netlify.app/](https://abu-bakar.netlify.app/)
+- 📄 Know about my experiences [https://abubakar.ksamarketinghub.com/](https://abubakar.ksamarketinghub.com)
 
 - ⚡ Fun fact **to coding, watching Netflix, study about new Technologies**
 
